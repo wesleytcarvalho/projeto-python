@@ -1,0 +1,7 @@
+# Exemplos
+# 1 - Abrir o arquivo
+arquivo = open('texto.txt')
+# 2 - Trabalhar o arquivo
+print(arquivo.read())
+print(arquivo.closed)  # False - Verifica se o arquivo está aberto ou fechado
+# 3 - Fechar o arquivo;
