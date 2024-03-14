@@ -67,7 +67,7 @@ print(float('Uday'))
 
 Exemplo KeyError
 a)
-dic = {'Python': 'University'}
+dic = {'Python': 'Academy'}
 print(dic['Uday'])
 
 7 AttributeError -> Ocorre quando uma variavel não tem um atributo/funcao.

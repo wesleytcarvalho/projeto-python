@@ -45,5 +45,5 @@ print(randint(1, 4))
 shuffle(01_lista)
 print(01_lista)
 
-print(choice('University'))
+print(choice('Academy'))
 """

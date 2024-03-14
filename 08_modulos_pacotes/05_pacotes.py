@@ -16,7 +16,7 @@ você sabe quando é um pacote quando aparece o __init__.py dentro da estrutura,
 -Python Package (Uday)
 --Python File (Uday1)
 --Python File (Uday2)
----Python Package (University)
+---Python Package (Academy)
 ----Python File (Uday3)
 ----Python File (Uday4)
 
@@ -26,7 +26,7 @@ from Uday import (
     Uday2,
 )
 
-from Uday.University import (
+from Uday.Academy import (
     Uday3,
     Uday4,
 )

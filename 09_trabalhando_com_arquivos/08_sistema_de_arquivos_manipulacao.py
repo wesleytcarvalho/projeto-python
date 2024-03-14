@@ -16,7 +16,7 @@ print(os.path.exists('/Users/uday'))
 # Path relativo
 print(os.path.exists('fruta.txt'))
 print(os.path.exists('arquivo.txt'))
-print(os.path.exists('../Uday/University'))
+print(os.path.exists('../Uday/Academy'))
 
 # Criando arquivos
 # Forma 1

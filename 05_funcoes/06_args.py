@@ -33,13 +33,13 @@ print(soma(1, 43, 564, 356, 3354,))
 
 # Outro exemplo de utilização do *args
 def verifica_info(*args):
-    if 'Uday' in args and 'University' in args:
+    if 'Uday' in args and 'Academy' in args:
         return 'Bem-vindo Uday!'
     return 'Eu não tenho certeza que é você ...'
 
 print(verifica_info(True))
 print(verifica_info(1,3,3))
-print(verifica_info('Uday', 'University'))
+print(verifica_info('Uday', 'Academy'))
 
 # Outro exemplo
 # Imagina que temos uma lista e queremos passar para a função soma, irá da TypeError

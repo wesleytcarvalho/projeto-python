@@ -75,8 +75,8 @@ print(nome.split()[0])  # Uday
 
 # Como é feito esta indexação
 # [  0,          1     ]
-# ['Uday', 'University']
-print(nome.split()[1])  # University
+# ['Uday', 'Academy']
+print(nome.split()[1])  # Academy
 print(nome.split()[0])
 
 nome = 'Uday Academy'
