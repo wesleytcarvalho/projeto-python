@@ -1,12 +1,12 @@
 """
 Assertions (Afirmações/Checagem/Questionamento)
 
-Em Python utilizamos a palavra resertada 'assert' para realizar simples afirmações utilizadas nos testes.
+Em Python utilizamos a palavra reservada 'assert' para realizar uma simples afirmação utilizadas nos testes.
 
 Utilizamos o 'assert' em uma expressão que queremos checar se é válido ou não. Se a expressão for verdadeira, retorna None e caso seja falsa levanta um erro do tipo AssertionsError.
 
 OBS: 
-- Nós podemos espeficiar, opcionalmente, um segundo argumento ou mesmo uma mensagem de erro personalizada.
+- Nós podemos especificar, opcionalmente, um segundo argumento ou mesmo uma mensagem de erro personalizada.
 - A palavra 'assert' pode ser utilizada em qualquer função ou código nosso....não precisa ser exclusivamente nos testes.
 
 Abra o console Pythone e faça o seguinte teste assert 4 == 4 se ele não aparecer nada é porque o resultado foi None, ou seja, verdadeira agora fassa assert 4 == 2 irá aparecer o erro AssertionError.
